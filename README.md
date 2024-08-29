@@ -1,4 +1,4 @@
-# computer-vision-learning
+**Computer Vision Learning**
 
 This repository consists of my work in implementing machine learning model to solve computer vision problems using open source dataset.
 
